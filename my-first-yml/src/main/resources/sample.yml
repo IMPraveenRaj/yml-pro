@@ -1,5 +1,8 @@
-name: PraveenRaj
+name: !!str  PraveenRaj
 myName: 'PraveenRaj'
 lastName: 'MohanRaj'
 country:  India
-Money:  20
+Money: !!int  20
+isSingle: !!bool false
+carsandBike: !!null null
+date: !!timestamp 2021-12-11
