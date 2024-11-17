@@ -1,0 +1,17 @@
+#collections of key value pairs of under the subgroup,helps dividing the data
+person:
+  -  billingAddress:
+      lane1: 33 blassbalg straat
+      lane2: Bruul Street east
+      city: Brussels
+      state: Mechelen
+      country: belgium
+  -  livingAddress: 
+      lane1: 33 blassbalg straat
+      lane2: Bruul Street east
+      city: Brussels
+      state: Mechelen
+      country: belgium
+  -  personalDetails:
+       name: praveenraj
+       age: 33	   	 		 	 	 	      	 		
